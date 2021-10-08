@@ -6,6 +6,8 @@ Ejercicio basico sobre matrices escrito en C++ para practicar
 
 ## Ejercicio a resolver
 
-Crear una matriz que guarde nombre y ayudante y despues mostrarlo de esta manera
+Crear una matriz que guarde nombre y ayudante. 
+<img src="![image](https://user-images.githubusercontent.com/72284556/136626826-c031ef02-34b0-4edf-8b11-e94b5ee04f9d.png)" width=300/>
 
-<img src="https://user-images.githubusercontent.com/72284556/136622635-89ba43e4-c1cf-4359-bc18-10f726c0c608.png" width=300/>
+Despues mostrarlo de esta manera
+<img src="![image](https://user-images.githubusercontent.com/72284556/136626703-ab7f0daf-9a51-48f1-893a-a4f874b3c443.png)" width=300/>
