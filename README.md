@@ -7,7 +7,7 @@ Ejercicio basico sobre matrices escrito en C++ para practicar
 ## Ejercicio a resolver
 
 Crear una matriz que guarde nombre y ayudante. 
-<img src="![image](https://user-images.githubusercontent.com/72284556/136626826-c031ef02-34b0-4edf-8b11-e94b5ee04f9d.png)" width=300/>
+![image](https://user-images.githubusercontent.com/72284556/136626904-8cb35cb5-e1e1-4b4c-b2d6-2221d18915f1.png)
 
 Despues mostrarlo de esta manera
-<img src="![image](https://user-images.githubusercontent.com/72284556/136626703-ab7f0daf-9a51-48f1-893a-a4f874b3c443.png)" width=300/>
+![image](https://user-images.githubusercontent.com/72284556/136626703-ab7f0daf-9a51-48f1-893a-a4f874b3c443.png)
